@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		951170B729C018B5007BF6A2 /* ScrumStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951170B629C018B5007BF6A2 /* ScrumStore.swift */; };
 		95303C8329BD052C00840A9B /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95303C8229BD052C00840A9B /* AVPlayer+Ding.swift */; };
 		95303C8629BD054D00840A9B /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = 95303C8529BD054D00840A9B /* ding.wav */; };
 		95303C8829BD057A00840A9B /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95303C8729BD057A00840A9B /* ScrumTimer.swift */; };
@@ -30,6 +31,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		951170B629C018B5007BF6A2 /* ScrumStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumStore.swift; sourceTree = "<group>"; };
 		95303C8229BD052C00840A9B /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AVPlayer+Ding.swift"; sourceTree = "<group>"; };
 		95303C8529BD054D00840A9B /* ding.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ding.wav; sourceTree = "<group>"; };
 		95303C8729BD057A00840A9B /* ScrumTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 				95303C8229BD052C00840A9B /* AVPlayer+Ding.swift */,
 				953D66AA29B4133100CDBA97 /* DailyScrum.swift */,
 				9540EA3029BEC3A700D78AEB /* History.swift */,
+				951170B629C018B5007BF6A2 /* ScrumStore.swift */,
 				95303C8729BD057A00840A9B /* ScrumTimer.swift */,
 				953D66AC29B4134400CDBA97 /* Theme.swift */,
 			);
@@ -206,6 +209,7 @@
 				95CE5C4029B2B11B00A14A3A /* MeetingView.swift in Sources */,
 				956CA4DD29BB8F780001158E /* ThemeView.swift in Sources */,
 				95303C8E29BD06AA00840A9B /* ScrumProgressViewStyle.swift in Sources */,
+				951170B729C018B5007BF6A2 /* ScrumStore.swift in Sources */,
 				95314FCA29B8D420009706A6 /* DetailView.swift in Sources */,
 				95303C8A29BD05D100840A9B /* MeetingFooterView.swift in Sources */,
 				95ACF02C29BA694700AFAD13 /* DetailEditView.swift in Sources */,
